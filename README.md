@@ -18,3 +18,13 @@ To do:
   3) Find way to make it work with UTF8
  
 The ultimate goal is to use this code in the creation of other more interesting analyses.
+
+-#-#-#-#-#-#-#-#-
+<p>
+  This is my own work and code.
+  
+  I offer sincere appreciation to the many people on stackoverflow whose answers and ideas contributed to and helped debug the final product.
+  
+  If you choose to use any significant chunk of this script in your own program(s) then I would request that you include an attribution to me.
+<p>
+-#-#-#-#-#-#-#-#-
