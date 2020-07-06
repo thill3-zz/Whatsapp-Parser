@@ -10,8 +10,11 @@ If you desire then afterward the dataframe can be saved into a csv file with the
 Feel free to remove any and all of the print statements. I just used them to keep track of how things were going.
 
 To do:
-  Tighten up the code
-  Check the script against multiple different whatsapp files
-  Find way to make it work with UTF8
+
+  1) Tighten up the code
+  
+  2) Check the script against multiple different whatsapp files
+  
+  3) Find way to make it work with UTF8
  
 The ultimate goal is to use this code in the creation of other more interesting analyses.
